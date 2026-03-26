@@ -1,0 +1,9 @@
+{
+    "python.languageServer": "Pylance",
+    "circuitpythonsync.curlibtag": "20250531",
+    "circuitpythonsync.cpbaseversion": "9",
+    "circuitpythonsync.cpfullversion": "9.2.8",
+    "C_Cpp.dimInactiveRegions": true,
+    "circuitpythonsync.doNotShowWelcome": true,
+    "circuitpythonsync.drivepath": "D:"
+}
